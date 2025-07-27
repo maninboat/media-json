@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "items": [
+      {
+        "title": "Beer Ad",
+        "mediaContent": {
+          "url": "https://raw.githubusercontent.com/maninboat/media-json/main/beer.mp4",
+          "type": "video/mp4",
+          "medium": "video",
+          "duration": "10",
+          "changeKey": "beer123"
+        }
+      }
+    ]
+  }
+}

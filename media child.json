@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "items": [
+      {
+        "title": "Candy Ad",
+        "mediaContent": {
+          "url": "https://raw.githubusercontent.com/maninboat/media-json/main/rainbow%20candy.mp4",
+          "type": "video/mp4",
+          "medium": "video",
+          "duration": "10",
+          "changeKey": "candy789"
+        }
+      }
+    ]
+  }
+}

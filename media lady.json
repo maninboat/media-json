@@ -1,0 +1,16 @@
+{
+  "channel": {
+    "items": [
+      {
+        "title": "Lipstick Ad",
+        "mediaContent": {
+          "url": "https://raw.githubusercontent.com/maninboat/media-json/main/lipstick.mp4",
+          "type": "video/mp4",
+          "medium": "video",
+          "duration": "10",
+          "changeKey": "lipstick456"
+        }
+      }
+    ]
+  }
+}
